@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AstroTool": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\astro\\sharpcap-bilder\\2025-04-05\\Mond3\\m13_23_20_22\\rawframes\\frame_00007.fits"
+    }
+  }
+}
